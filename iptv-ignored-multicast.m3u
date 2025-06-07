@@ -9,6 +9,14 @@ rtp://239.3.1.202:8001
 rtp://239.3.1.161:8001
 #EXTINF:-1 channel-number="173" tvg-id="173" tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-3.png" group-title="地方",CETV3
 rtp://239.3.1.55:4120
+#EXTINF:-1 channel-number="205" tvg-id="205" tvg-name="IPTV6＋",IPTV6＋
+rtp://239.3.1.197:9016
+#EXTINF:-1 channel-number="206" tvg-id="206" tvg-name="IPTV3＋",IPTV3＋
+rtp://239.3.1.198:9004
+#EXTINF:-1 channel-number="208" tvg-id="208" tvg-name="IPTV5＋",IPTV5＋
+rtp://239.3.1.200:9008
+#EXTINF:-1 channel-number="209" tvg-id="209" tvg-name="IPTV8＋",IPTV8＋
+rtp://239.3.1.201:8072
 #EXTINF:-1 channel-number="324" tvg-id="324" tvg-name="熊猫频道",熊猫频道
 rtp://239.3.1.66:8068
 #EXTINF:-1 channel-number="361" tvg-id="361" tvg-name="国学" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GuoXue.jpg" group-title="地方",国学

@@ -325,7 +325,7 @@ http://udpxy.local:8080/rtp/239.3.1.201:8072
 http://udpxy.local:8080/rtp/239.3.1.96:8001
 #EXTINF:-1 channel-number="320" tvg-id="320" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HuNan_KuaiLeChuiDiao.jpg" group-title="地方",快乐垂钓
 http://udpxy.local:8080/rtp/239.3.1.164:8001
-#EXTINF:-1 channel-number="321" tvg-id="321" tvg-name="茶",茶
+#EXTINF:-1 channel-number="321" tvg-id="321" tvg-name="茶" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HuNan_ChaPinDao.jpg" group-title="卫视",茶
 http://udpxy.local:8080/rtp/239.3.1.165:8001
 #EXTINF:-1 channel-number="324" tvg-id="324" tvg-name="熊猫频道",熊猫频道
 http://udpxy.local:8080/rtp/239.3.1.66:8068
