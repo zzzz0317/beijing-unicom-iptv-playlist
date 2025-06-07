@@ -1,0 +1,55 @@
+#EXTM3U name="bj-unicom-iptv" x-tvg-url="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/epg.xml.gz"
+#EXTINF:-1 channel-number="31" tvg-id="31" tvg-name="淘精彩",淘精彩
+rtp://239.3.1.178:8001
+#EXTINF:-1 channel-number="75" tvg-id="75" tvg-name="纪实频道HD",纪实频道HD
+rtp://239.3.1.212:8060
+#EXTINF:-1 channel-number="90" tvg-id="90" tvg-name="动漫秀场",动漫秀场
+rtp://239.3.1.202:8001
+#EXTINF:-1 channel-number="168" tvg-id="168" tvg-name="南方卫视",南方卫视
+rtp://239.3.1.161:8001
+#EXTINF:-1 channel-number="173" tvg-id="173" tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-3.png" group-title="地方",CETV3
+rtp://239.3.1.55:4120
+#EXTINF:-1 channel-number="324" tvg-id="324" tvg-name="熊猫频道",熊猫频道
+rtp://239.3.1.66:8068
+#EXTINF:-1 channel-number="361" tvg-id="361" tvg-name="国学" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GuoXue.jpg" group-title="地方",国学
+rtp://239.3.1.77:4120
+#EXTINF:-1 channel-number="380" tvg-id="380" tvg-name="体育赛事高清",体育赛事高清
+rtp://239.3.1.157:8176
+#EXTINF:-1 channel-number="403" tvg-id="403" tvg-name="BRTV体育休闲4K HDR",BRTV体育休闲4K HDR
+rtp://239.3.1.120:8000
+#EXTINF:-1 channel-number="404" tvg-id="404" tvg-name="BRTV体育休闲4K SDR",BRTV体育休闲4K SDR
+rtp://239.3.1.121:8000
+#EXTINF:-1 channel-number="405" tvg-id="405" tvg-name="CCTV-16 4K" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-16.png" group-title="央视",CCTV-16 4K
+rtp://239.3.1.183:8001
+#EXTINF:-1 channel-number="502" tvg-id="502" tvg-name="VBR测试-2",VBR测试-2
+rtp://239.3.1.140:8001
+#EXTINF:-1 channel-number="505" tvg-id="505" tvg-name="轮播频道5",轮播频道5
+rtp://239.3.1.253:8001
+#EXTINF:-1 channel-number="507" tvg-id="507" tvg-name="空中课堂-初三",空中课堂-初三
+rtp://239.3.1.176:8001
+#EXTINF:-1 channel-number="508" tvg-id="508" tvg-name="空中课堂-高三",空中课堂-高三
+rtp://239.3.1.177:8001
+#EXTINF:-1 channel-number="515" tvg-id="515" tvg-name="VBR测试-1",VBR测试-1
+rtp://239.3.1.139:8001
+#EXTINF:-1 channel-number="520" tvg-id="520" tvg-name="4K测试" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-4.png" group-title="地方",4K测试
+rtp://239.3.1.104:8001
+#EXTINF:-1 channel-number="521" tvg-id="521" tvg-name="高清测试",高清测试
+rtp://239.3.1.103:8001
+#EXTINF:-1 channel-number="522" tvg-id="522" tvg-name="总平台测试1",总平台测试1
+rtp://239.3.1.247:2000
+#EXTINF:-1 channel-number="523" tvg-id="523" tvg-name="总平台测试2",总平台测试2
+rtp://239.3.1.248:2000
+#EXTINF:-1 channel-number="530" tvg-id="530" tvg-name="直播室101",直播室101
+rtp://239.3.1.166:8001
+#EXTINF:-1 channel-number="531" tvg-id="531" tvg-name="直播室102",直播室102
+rtp://239.3.1.167:8001
+#EXTINF:-1 channel-number="532" tvg-id="532" tvg-name="直播室103",直播室103
+rtp://239.3.1.168:8001
+#EXTINF:-1 channel-number="533" tvg-id="533" tvg-name="直播室104",直播室104
+rtp://239.3.1.169:8001
+#EXTINF:-1 channel-number="534" tvg-id="534" tvg-name="直播室106",直播室106
+rtp://239.3.1.170:8001
+#EXTINF:-1 channel-number="535" tvg-id="535" tvg-name="直播室107",直播室107
+rtp://239.3.1.171:8001
+#EXTINF:-1 channel-number="551" tvg-id="551" tvg-name="粤荟萃",粤荟萃
+rtp://239.3.1.162:8001
