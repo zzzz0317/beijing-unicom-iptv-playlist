@@ -449,3 +449,13 @@ rtp://239.3.1.171:8001
 rtp://239.3.1.162:8001
 #EXTINF:-1 channel-number="590" tvg-id="590" tvg-name="文化北京",文化北京
 rtp://239.3.1.97:8001
+#EXTINF:-1 channel-number="302" tvg-id="302" tvg-name="通州融媒" group-title="区县",通州融媒
+rtp://239.3.1.221:8001
+#EXTINF:-1 channel-number="303" tvg-id="303" tvg-name="密云电视台" group-title="区县",密云电视台
+rtp://239.3.1.154:8001
+#EXTINF:-1 channel-number="304" tvg-id="304" tvg-name="门头沟电视台" group-title="区县",门头沟电视台
+rtp://239.3.1.59:8001
+#EXTINF:-1 channel-number="305" tvg-id="305" tvg-name="延庆电视台" group-title="区县",延庆电视台
+rtp://239.3.1.187:8001
+#EXTINF:-1 channel-number="310" tvg-id="310" tvg-name="朝阳融媒" group-title="区县",朝阳融媒
+rtp://239.3.1.163:8001
