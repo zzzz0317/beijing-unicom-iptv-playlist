@@ -57,8 +57,6 @@ rtp://239.3.1.117:8000
 rtp://239.3.1.159:8000
 #EXTINF:-1 channel-number="30" tvg-id="30" tvg-name="家有购物精选",家有购物精选
 rtp://239.3.1.186:8001
-#EXTINF:-1 channel-number="31" tvg-id="31" tvg-name="淘精彩",淘精彩
-rtp://239.3.1.178:8001
 #EXTINF:-1 channel-number="32" tvg-id="32" tvg-name="优购物",优购物
 rtp://239.3.1.180:8001
 #EXTINF:-1 channel-number="33" tvg-id="33" tvg-name="时尚购物",时尚购物
@@ -111,7 +109,7 @@ rtp://239.3.1.156:8148
 rtp://239.3.1.122:8160
 #EXTINF:-1 channel-number="58" tvg-id="58" tvg-name="江西卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangXi.png" group-title="卫视",江西卫视高清
 rtp://239.3.1.123:8164
-#EXTINF:-1 channel-number="59" tvg-id="59" tvg-name="河南卫视高清",河南卫视高清
+#EXTINF:-1 channel-number="59" tvg-id="59" tvg-name="河南卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HeNan.png" group-title="卫视",河南卫视高清
 rtp://239.3.1.50:8184
 #EXTINF:-1 channel-number="60" tvg-id="60" tvg-name="优购物精选",优购物精选
 rtp://239.3.1.190:8001
@@ -215,7 +213,7 @@ rtp://239.3.1.231:8000
 rtp://239.3.1.233:8000
 #EXTINF:-1 channel-number="130" tvg-id="130" tvg-name="BRTV卡酷少儿" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_KakuShaoEr.png" group-title="卫视",BRTV卡酷少儿
 rtp://239.3.1.234:8000
-#EXTINF:-1 channel-number="131" tvg-id="131" tvg-name="BTV国际频道",BTV国际频道
+#EXTINF:-1 channel-number="131" tvg-id="131" tvg-name="BTV国际频道" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_International.png" group-title="北京",BTV国际频道
 rtp://239.3.1.235:8000
 #EXTINF:-1 channel-number="132" tvg-id="132" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan.png" group-title="央视",湖南卫视
 rtp://239.3.1.18:8268
@@ -363,8 +361,6 @@ rtp://239.3.1.74:4120
 rtp://239.3.1.75:4120
 #EXTINF:-1 channel-number="360" tvg-id="360" tvg-name="军事",军事
 rtp://239.3.1.76:4120
-#EXTINF:-1 channel-number="361" tvg-id="361" tvg-name="国学" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GuoXue.jpg" group-title="地方",国学
-rtp://239.3.1.77:4120
 #EXTINF:-1 channel-number="362" tvg-id="362" tvg-name="戏曲",戏曲
 rtp://239.3.1.78:4120
 #EXTINF:-1 channel-number="363" tvg-id="363" tvg-name="早教",早教
@@ -403,7 +399,7 @@ rtp://239.3.1.94:4120
 rtp://239.3.1.237:4120
 #EXTINF:-1 channel-number="401" tvg-id="401" tvg-name="爱上4K",爱上4K
 rtp://239.3.1.236:2000
-#EXTINF:-1 channel-number="421" tvg-id="421" tvg-name="BRTV北京卫视超高清HDR",BRTV北京卫视超高清HDR
+#EXTINF:-1 channel-number="421" tvg-id="421" tvg-name="BRTV北京卫视超高清HDR" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="卫视",BRTV北京卫视超高清HDR
 rtp://239.3.1.118:8001
 #EXTINF:-1 channel-number="502" tvg-id="502" tvg-name="VBR测试-2",VBR测试-2
 rtp://239.3.1.140:8001
