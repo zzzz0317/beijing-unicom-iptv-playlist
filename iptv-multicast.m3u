@@ -1,0 +1,415 @@
+#EXTM3U name="bj-unicom-iptv" x-tvg-url="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/epg.xml.gz"
+#EXTINF:-1 channel-number="1" tvg-id="1" tvg-name="CCTV-1高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-1.png" group-title="央视",CCTV-1高清
+rtp://239.3.1.129:8008
+#EXTINF:-1 channel-number="2" tvg-id="2" tvg-name="CCTV-2高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-2.png" group-title="央视",CCTV-2高清
+rtp://239.3.1.60:8084
+#EXTINF:-1 channel-number="3" tvg-id="3" tvg-name="CCTV-3高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-3.png" group-title="央视",CCTV-3高清
+rtp://239.3.1.172:8001
+#EXTINF:-1 channel-number="4" tvg-id="4" tvg-name="CCTV-4高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4.png" group-title="央视",CCTV-4高清
+rtp://239.3.1.105:8092
+#EXTINF:-1 channel-number="5" tvg-id="5" tvg-name="CCTV-5高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-5.png" group-title="央视",CCTV-5高清
+rtp://239.3.1.173:8001
+#EXTINF:-1 channel-number="6" tvg-id="6" tvg-name="CCTV-6高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-6.png" group-title="央视",CCTV-6高清
+rtp://239.3.1.174:8001
+#EXTINF:-1 channel-number="7" tvg-id="7" tvg-name="CCTV-7高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-7.png" group-title="央视",CCTV-7高清
+rtp://239.3.1.61:8104
+#EXTINF:-1 channel-number="8" tvg-id="8" tvg-name="CCTV-8高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-8.png" group-title="央视",CCTV-8高清
+rtp://239.3.1.175:8001
+#EXTINF:-1 channel-number="9" tvg-id="9" tvg-name="CCTV-9高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-9.png" group-title="央视",CCTV-9高清
+rtp://239.3.1.62:8112
+#EXTINF:-1 channel-number="10" tvg-id="10" tvg-name="CCTV-10高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-10.png" group-title="央视",CCTV-10高清
+rtp://239.3.1.63:8116
+#EXTINF:-1 channel-number="11" tvg-id="11" tvg-name="CCTV-11高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-11.png" group-title="央视",CCTV-11高清
+rtp://239.3.1.152:8120
+#EXTINF:-1 channel-number="12" tvg-id="12" tvg-name="CCTV-12高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-12.png" group-title="央视",CCTV-12高清
+rtp://239.3.1.64:8124
+#EXTINF:-1 channel-number="13" tvg-id="13" tvg-name="CCTV-13高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-13.png" group-title="央视",CCTV-13高清
+rtp://239.3.1.124:8128
+#EXTINF:-1 channel-number="14" tvg-id="14" tvg-name="CCTV-14高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-14.png" group-title="央视",CCTV-14高清
+rtp://239.3.1.65:8132
+#EXTINF:-1 channel-number="15" tvg-id="15" tvg-name="CCTV-15高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-15.png" group-title="央视",CCTV-15高清
+rtp://239.3.1.153:8136
+#EXTINF:-1 channel-number="16" tvg-id="16" tvg-name="CCTV-16高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-16.png" group-title="央视",CCTV-16高清
+rtp://239.3.1.184:8001
+#EXTINF:-1 channel-number="17" tvg-id="17" tvg-name="CCTV17-高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-17.png" group-title="央视",CCTV17-高清
+rtp://239.3.1.151:8144
+#EXTINF:-1 channel-number="18" tvg-id="18" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-5+.png" group-title="央视",CCTV-5+
+rtp://239.3.1.130:8004
+#EXTINF:-1 channel-number="19" tvg-id="19" tvg-name="聚鲨环球精选",聚鲨环球精选
+rtp://239.3.1.179:8001
+#EXTINF:-1 channel-number="20" tvg-id="20" tvg-name="央广购物",央广购物
+rtp://239.3.1.222:8001
+#EXTINF:-1 channel-number="21" tvg-id="21" tvg-name="BRTV北京卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="卫视",BRTV北京卫视高清
+rtp://239.3.1.241:8000
+#EXTINF:-1 channel-number="22" tvg-id="22" tvg-name="BRTV文艺高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_WenYi.png" group-title="北京",BRTV文艺高清
+rtp://239.3.1.242:8000
+#EXTINF:-1 channel-number="23" tvg-id="23" tvg-name="BRTV纪实科教高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_JiShiKeJiao.png" group-title="北京",BRTV纪实科教高清
+rtp://239.3.1.115:8000
+#EXTINF:-1 channel-number="24" tvg-id="24" tvg-name="BRTV影视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_YingShi.png" group-title="北京",BRTV影视高清
+rtp://239.3.1.158:8000
+#EXTINF:-1 channel-number="25" tvg-id="25" tvg-name="BRTV财经高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_CaiJing.png" group-title="北京",BRTV财经高清
+rtp://239.3.1.116:8000
+#EXTINF:-1 channel-number="26" tvg-id="26" tvg-name="BRTV体育休闲高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_TiYuXiuXian.png" group-title="北京",BRTV体育休闲高清
+rtp://239.3.1.243:8000
+#EXTINF:-1 channel-number="27" tvg-id="27" tvg-name="BRTV生活高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_ShengHuo.png" group-title="北京",BRTV生活高清
+rtp://239.3.1.117:8000
+#EXTINF:-1 channel-number="29" tvg-id="29" tvg-name="BRTV新闻高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_XinWen.png" group-title="北京",BRTV新闻高清
+rtp://239.3.1.159:8000
+#EXTINF:-1 channel-number="30" tvg-id="30" tvg-name="家有购物精选",家有购物精选
+rtp://239.3.1.186:8001
+#EXTINF:-1 channel-number="31" tvg-id="31" tvg-name="淘精彩",淘精彩
+rtp://239.3.1.178:8001
+#EXTINF:-1 channel-number="32" tvg-id="32" tvg-name="优购物",优购物
+rtp://239.3.1.180:8001
+#EXTINF:-1 channel-number="33" tvg-id="33" tvg-name="时尚购物",时尚购物
+rtp://239.3.1.181:8001
+#EXTINF:-1 channel-number="34" tvg-id="34" tvg-name="萌宠TV",萌宠TV
+rtp://239.3.1.102:8001
+#EXTINF:-1 channel-number="35" tvg-id="35" tvg-name="BRTV卡酷少儿高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_KakuShaoEr.png" group-title="卫视",BRTV卡酷少儿高清
+rtp://239.3.1.189:8000
+#EXTINF:-1 channel-number="36" tvg-id="36" tvg-name="淘Baby",淘Baby
+rtp://239.3.1.238:8001
+#EXTINF:-1 channel-number="37" tvg-id="37" tvg-name="淘剧场",淘剧场
+rtp://239.3.1.95:8001
+#EXTINF:-1 channel-number="38" tvg-id="38" tvg-name="淘电影",淘电影
+rtp://239.3.1.250:8001
+#EXTINF:-1 channel-number="39" tvg-id="39" tvg-name="淘娱乐",淘娱乐
+rtp://239.3.1.100:8001
+#EXTINF:-1 channel-number="40" tvg-id="40" tvg-name="4K超清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-4.png" group-title="地方",4K超清
+rtp://239.3.1.249:8001
+#EXTINF:-1 channel-number="41" tvg-id="41" tvg-name="湖南卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan.png" group-title="央视",湖南卫视高清
+rtp://239.3.1.132:8012
+#EXTINF:-1 channel-number="42" tvg-id="42" tvg-name="家有购物",家有购物
+rtp://239.3.1.185:8001
+#EXTINF:-1 channel-number="43" tvg-id="43" tvg-name="央广购物精选",央广购物精选
+rtp://239.3.1.223:8001
+#EXTINF:-1 channel-number="44" tvg-id="44" tvg-name="江苏卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangSu.png" group-title="卫视",江苏卫视高清
+rtp://239.3.1.135:8028
+#EXTINF:-1 channel-number="45" tvg-id="45" tvg-name="东方卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/DongFang.png" group-title="卫视",东方卫视高清
+rtp://239.3.1.136:8032
+#EXTINF:-1 channel-number="46" tvg-id="46" tvg-name="浙江卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ZheJiang.png" group-title="卫视",浙江卫视高清
+rtp://239.3.1.137:8036
+#EXTINF:-1 channel-number="47" tvg-id="47" tvg-name="湖北卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuBei.png" group-title="卫视",湖北卫视高清
+rtp://239.3.1.138:8044
+#EXTINF:-1 channel-number="48" tvg-id="48" tvg-name="天津卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/TianJin.png" group-title="卫视",天津卫视高清
+rtp://239.3.1.141:1234
+#EXTINF:-1 channel-number="49" tvg-id="49" tvg-name="聚鲨环球",聚鲨环球
+rtp://239.3.1.160:8001
+#EXTINF:-1 channel-number="50" tvg-id="50" tvg-name="山东卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShanDong.png" group-title="卫视",山东卫视高清
+rtp://239.3.1.209:8052
+#EXTINF:-1 channel-number="51" tvg-id="51" tvg-name="辽宁卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/LiaoNing.png" group-title="卫视",辽宁卫视高清
+rtp://239.3.1.210:8056
+#EXTINF:-1 channel-number="52" tvg-id="52" tvg-name="安徽卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/AnHui.png" group-title="卫视",安徽卫视高清
+rtp://239.3.1.211:8064
+#EXTINF:-1 channel-number="53" tvg-id="53" tvg-name="黑龙江卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HeiLongJiang.png" group-title="卫视",黑龙江卫视高清
+rtp://239.3.1.133:8016
+#EXTINF:-1 channel-number="55" tvg-id="55" tvg-name="贵州卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuiZhou.png" group-title="卫视",贵州卫视高清
+rtp://239.3.1.149:8076
+#EXTINF:-1 channel-number="56" tvg-id="56" tvg-name="东南卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/DongNan.png" group-title="卫视",东南卫视高清
+rtp://239.3.1.156:8148
+#EXTINF:-1 channel-number="57" tvg-id="57" tvg-name="重庆卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ChongQing.png" group-title="卫视",重庆卫视高清
+rtp://239.3.1.122:8160
+#EXTINF:-1 channel-number="58" tvg-id="58" tvg-name="江西卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangXi.png" group-title="卫视",江西卫视高清
+rtp://239.3.1.123:8164
+#EXTINF:-1 channel-number="59" tvg-id="59" tvg-name="河南卫视高清",河南卫视高清
+rtp://239.3.1.50:8184
+#EXTINF:-1 channel-number="60" tvg-id="60" tvg-name="优购物精选",优购物精选
+rtp://239.3.1.190:8001
+#EXTINF:-1 channel-number="61" tvg-id="61" tvg-name="时尚购物精选",时尚购物精选
+rtp://239.3.1.191:8001
+#EXTINF:-1 channel-number="66" tvg-id="66" tvg-name="睛彩竞技",睛彩竞技
+rtp://239.3.1.125:8001
+#EXTINF:-1 channel-number="67" tvg-id="67" tvg-name="睛彩篮球",睛彩篮球
+rtp://239.3.1.126:8001
+#EXTINF:-1 channel-number="68" tvg-id="68" tvg-name="睛彩羽毛球",睛彩羽毛球
+rtp://239.3.1.127:8001
+#EXTINF:-1 channel-number="69" tvg-id="69" tvg-name="睛彩广场舞",睛彩广场舞
+rtp://239.3.1.128:8001
+#EXTINF:-1 channel-number="70" tvg-id="70" tvg-name="魅力足球",魅力足球
+rtp://239.3.1.201:8001
+#EXTINF:-1 channel-number="72" tvg-id="72" tvg-name="广东卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuangDong.png" group-title="卫视",广东卫视高清
+rtp://239.3.1.142:8048
+#EXTINF:-1 channel-number="73" tvg-id="73" tvg-name="河北卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HeBei.png" group-title="卫视",河北卫视高清
+rtp://239.3.1.148:8072
+#EXTINF:-1 channel-number="74" tvg-id="74" tvg-name="深圳卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShenZhen.png" group-title="卫视",深圳卫视高清
+rtp://239.3.1.134:8020
+#EXTINF:-1 channel-number="75" tvg-id="75" tvg-name="纪实频道HD",纪实频道HD
+rtp://239.3.1.212:8060
+#EXTINF:-1 channel-number="76" tvg-id="76" tvg-name="CETV1高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-1.png" group-title="地方",CETV1高清
+rtp://239.3.1.57:8152
+#EXTINF:-1 channel-number="77" tvg-id="77" tvg-name="金鹰纪实高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan_JingYijingJiShi.png" group-title="地方",金鹰纪实高清
+rtp://239.3.1.58:8156
+#EXTINF:-1 channel-number="78" tvg-id="78" tvg-name="吉林卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiLin.png" group-title="卫视",吉林卫视高清
+rtp://239.3.1.240:8172
+#EXTINF:-1 channel-number="79" tvg-id="79" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/ZhongGuoJiaoTong.png" group-title="上海",中国交通
+rtp://239.3.1.188:8001
+#EXTINF:-1 channel-number="81" tvg-id="81" tvg-name="BRTV北京卫视超高清SDR",BRTV北京卫视超高清SDR
+rtp://239.3.1.22:8001
+#EXTINF:-1 channel-number="85" tvg-id="85" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="地方",CCTV4K超高清
+rtp://239.3.1.244:2000
+#EXTINF:-1 channel-number="86" tvg-id="86" tvg-name="CCTV4K超高清HDR" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="地方",CCTV4K超高清HDR
+rtp://239.3.1.245:2000
+#EXTINF:-1 channel-number="90" tvg-id="90" tvg-name="动漫秀场",动漫秀场
+rtp://239.3.1.202:8001
+#EXTINF:-1 channel-number="91" tvg-id="91" tvg-name="都市剧场",都市剧场
+rtp://239.3.1.203:8001
+#EXTINF:-1 channel-number="92" tvg-id="92" tvg-name="法治天地",法治天地
+rtp://239.3.1.204:8001
+#EXTINF:-1 channel-number="93" tvg-id="93" tvg-name="游戏风云",游戏风云
+rtp://239.3.1.205:8001
+#EXTINF:-1 channel-number="94" tvg-id="94" tvg-name="生活时尚",生活时尚
+rtp://239.3.1.206:8001
+#EXTINF:-1 channel-number="95" tvg-id="95" tvg-name="乐游",乐游
+rtp://239.3.1.207:8001
+#EXTINF:-1 channel-number="96" tvg-id="96" tvg-name="金色学堂",金色学堂
+rtp://239.3.1.208:8001
+#EXTINF:-1 channel-number="101" tvg-id="101" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-1.png" group-title="央视",CCTV-1
+rtp://239.3.1.1:8000
+#EXTINF:-1 channel-number="102" tvg-id="102" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-2.png" group-title="央视",CCTV-2
+rtp://239.3.1.2:8004
+#EXTINF:-1 channel-number="103" tvg-id="103" tvg-name="CCTV-3" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-3.png" group-title="央视",CCTV-3
+rtp://239.3.1.107:8001
+#EXTINF:-1 channel-number="104" tvg-id="104" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4.png" group-title="央视",CCTV-4
+rtp://239.3.1.4:8216
+#EXTINF:-1 channel-number="105" tvg-id="105" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-5.png" group-title="央视",CCTV-5
+rtp://239.3.1.108:8001	
+#EXTINF:-1 channel-number="106" tvg-id="106" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-6.png" group-title="央视",CCTV-6
+rtp://239.3.1.109:8001
+#EXTINF:-1 channel-number="107" tvg-id="107" tvg-name="CCTV-7" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-7.png" group-title="央视",CCTV-7
+rtp://239.3.1.7:8024
+#EXTINF:-1 channel-number="108" tvg-id="108" tvg-name="CCTV-8" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-8.png" group-title="央视",CCTV-8
+rtp://239.3.1.110:8001
+#EXTINF:-1 channel-number="109" tvg-id="109" tvg-name="CCTV-9" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-9.png" group-title="央视",CCTV-9
+rtp://239.3.1.9:8032
+#EXTINF:-1 channel-number="110" tvg-id="110" tvg-name="CCTV-10" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-10.png" group-title="央视",CCTV-10
+rtp://239.3.1.10:8228
+#EXTINF:-1 channel-number="111" tvg-id="111" tvg-name="CCTV-11" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-11.png" group-title="央视",CCTV-11
+rtp://239.3.1.11:8040
+#EXTINF:-1 channel-number="112" tvg-id="112" tvg-name="CCTV-12" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-12.png" group-title="央视",CCTV-12
+rtp://239.3.1.12:8232
+#EXTINF:-1 channel-number="113" tvg-id="113" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-13.png" group-title="央视",CCTV-13
+rtp://239.3.1.13:8048
+#EXTINF:-1 channel-number="114" tvg-id="114" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-14.png" group-title="央视",CCTV-14
+rtp://239.3.1.14:8236
+#EXTINF:-1 channel-number="115" tvg-id="115" tvg-name="CCTV-15" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-15.png" group-title="央视",CCTV-15
+rtp://239.3.1.15:8052
+#EXTINF:-1 channel-number="116" tvg-id="116" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN.png" group-title="央视",CGTN
+rtp://239.3.1.16:8056
+#EXTINF:-1 channel-number="117" tvg-id="117" tvg-name="CCTV-17" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-17.png" group-title="央视",CCTV-17
+rtp://239.3.1.150:8064
+#EXTINF:-1 channel-number="121" tvg-id="121" tvg-name="BRTV北京卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/Beijing.png" group-title="卫视",BRTV北京卫视
+rtp://239.3.1.225:8000
+#EXTINF:-1 channel-number="122" tvg-id="122" tvg-name="BRTV文艺" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_WenYi.png" group-title="北京",BRTV文艺
+rtp://239.3.1.226:8000
+#EXTINF:-1 channel-number="123" tvg-id="123" tvg-name="BRTV纪实科教" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_JiShiKeJiao.png" group-title="北京",BRTV纪实科教
+rtp://239.3.1.227:8000
+#EXTINF:-1 channel-number="124" tvg-id="124" tvg-name="BRTV影视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_YingShi.png" group-title="北京",BRTV影视
+rtp://239.3.1.228:8000
+#EXTINF:-1 channel-number="125" tvg-id="125" tvg-name="BRTV财经" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_CaiJing.png" group-title="北京",BRTV财经
+rtp://239.3.1.229:8000
+#EXTINF:-1 channel-number="126" tvg-id="126" tvg-name="BRTV体育休闲" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_TiYuXiuXian.png" group-title="北京",BRTV体育休闲
+rtp://239.3.1.230:8000
+#EXTINF:-1 channel-number="127" tvg-id="127" tvg-name="BRTV生活" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_ShengHuo.png" group-title="北京",BRTV生活
+rtp://239.3.1.231:8000
+#EXTINF:-1 channel-number="129" tvg-id="129" tvg-name="BRTV新闻" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_XinWen.png" group-title="北京",BRTV新闻
+rtp://239.3.1.233:8000
+#EXTINF:-1 channel-number="130" tvg-id="130" tvg-name="BRTV卡酷少儿" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_KakuShaoEr.png" group-title="卫视",BRTV卡酷少儿
+rtp://239.3.1.234:8000
+#EXTINF:-1 channel-number="131" tvg-id="131" tvg-name="BTV国际频道",BTV国际频道
+rtp://239.3.1.235:8000
+#EXTINF:-1 channel-number="132" tvg-id="132" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan.png" group-title="央视",湖南卫视
+rtp://239.3.1.18:8268
+#EXTINF:-1 channel-number="133" tvg-id="133" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ZheJiang.png" group-title="卫视",浙江卫视
+rtp://239.3.1.19:8284
+#EXTINF:-1 channel-number="134" tvg-id="134" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangSu.png" group-title="卫视",江苏卫视
+rtp://239.3.1.20:8276
+#EXTINF:-1 channel-number="135" tvg-id="135" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/AnHui.png" group-title="卫视",安徽卫视
+rtp://239.3.1.21:8272
+#EXTINF:-1 channel-number="136" tvg-id="136" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/TianJin.png" group-title="卫视",天津卫视
+rtp://239.3.1.23:8144
+#EXTINF:-1 channel-number="137" tvg-id="137" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/LiaoNing.png" group-title="卫视",辽宁卫视
+rtp://239.3.1.24:8116
+#EXTINF:-1 channel-number="138" tvg-id="138" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShanDong.png" group-title="卫视",山东卫视
+rtp://239.3.1.25:8148
+#EXTINF:-1 channel-number="139" tvg-id="139" tvg-name="山东教育",山东教育
+rtp://239.3.1.52:4120
+#EXTINF:-1 channel-number="140" tvg-id="140" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HeNan.png" group-title="卫视",河南卫视
+rtp://239.3.1.27:8128
+#EXTINF:-1 channel-number="141" tvg-id="141" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HeiLongJiang.png" group-title="卫视",黑龙江卫视
+rtp://239.3.1.28:8196
+#EXTINF:-1 channel-number="142" tvg-id="142" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/SiChuan.png" group-title="卫视",四川卫视
+rtp://239.3.1.29:8288
+#EXTINF:-1 channel-number="143" tvg-id="143" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangXi.png" group-title="卫视",江西卫视
+rtp://239.3.1.30:8280
+#EXTINF:-1 channel-number="144" tvg-id="144" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuiZhou.png" group-title="卫视",贵州卫视
+rtp://239.3.1.31:8120
+#EXTINF:-1 channel-number="145" tvg-id="145" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShenZhen.png" group-title="卫视",深圳卫视
+rtp://239.3.1.32:9244
+#EXTINF:-1 channel-number="146" tvg-id="146" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuBei.png" group-title="卫视",湖北卫视
+rtp://239.3.1.33:8136
+#EXTINF:-1 channel-number="147" tvg-id="147" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/DongFang.png" group-title="卫视",东方卫视
+rtp://239.3.1.34:8192
+#EXTINF:-1 channel-number="148" tvg-id="148" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ChongQing.png" group-title="卫视",重庆卫视
+rtp://239.3.1.35:8296
+#EXTINF:-1 channel-number="149" tvg-id="149" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/DongNan.png" group-title="卫视",东南卫视
+rtp://239.3.1.36:8112
+#EXTINF:-1 channel-number="150" tvg-id="150" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HeBei.png" group-title="卫视",河北卫视
+rtp://239.3.1.37:8292
+#EXTINF:-1 channel-number="151" tvg-id="151" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuangDong.png" group-title="卫视",广东卫视
+rtp://239.3.1.38:8132
+#EXTINF:-1 channel-number="152" tvg-id="152" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuangXi.png" group-title="卫视",广西卫视
+rtp://239.3.1.39:8300
+#EXTINF:-1 channel-number="153" tvg-id="153" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiLin.png" group-title="卫视",吉林卫视
+rtp://239.3.1.40:8200
+#EXTINF:-1 channel-number="154" tvg-id="154" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShaanXi.png" group-title="卫视",陕西卫视
+rtp://239.3.1.41:8140
+#EXTINF:-1 channel-number="155" tvg-id="155" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShanXi.png" group-title="卫视",山西卫视
+rtp://239.3.1.42:8172
+#EXTINF:-1 channel-number="156" tvg-id="156" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/NeiMengGu.png" group-title="卫视",内蒙古卫视
+rtp://239.3.1.43:8176
+#EXTINF:-1 channel-number="157" tvg-id="157" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/QingHai.png" group-title="卫视",青海卫视
+rtp://239.3.1.44:8184
+#EXTINF:-1 channel-number="158" tvg-id="158" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HaiNan.png" group-title="卫视",海南卫视
+rtp://239.3.1.45:8304
+#EXTINF:-1 channel-number="159" tvg-id="159" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/NingXia.png" group-title="卫视",宁夏卫视
+rtp://239.3.1.46:8124
+#EXTINF:-1 channel-number="160" tvg-id="160" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/XiZang.png" group-title="卫视",西藏卫视
+rtp://239.3.1.47:8164
+#EXTINF:-1 channel-number="161" tvg-id="161" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/XinJiang.png" group-title="卫视",新疆卫视
+rtp://239.3.1.48:8160
+#EXTINF:-1 channel-number="162" tvg-id="162" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GanSu.png" group-title="卫视",甘肃卫视
+rtp://239.3.1.49:8188
+#EXTINF:-1 channel-number="163" tvg-id="163" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/SanSha.png" group-title="卫视",三沙卫视
+rtp://239.3.1.155:4120
+#EXTINF:-1 channel-number="164" tvg-id="164" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/YunNan.png" group-title="卫视",云南卫视
+rtp://239.3.1.26:8108
+#EXTINF:-1 channel-number="165" tvg-id="165" tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CaiFuTianXia.png" group-title="地方",财富天下
+rtp://239.3.1.53:9136
+#EXTINF:-1 channel-number="166" tvg-id="166" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/XiaMen.png" group-title="卫视",厦门卫视
+rtp://239.3.1.143:4120
+#EXTINF:-1 channel-number="167" tvg-id="167" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BingTuan.png" group-title="卫视",兵团卫视
+rtp://239.3.1.144:4120
+#EXTINF:-1 channel-number="168" tvg-id="168" tvg-name="南方卫视",南方卫视
+rtp://239.3.1.161:8001
+#EXTINF:-1 channel-number="169" tvg-id="169" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HuNan_JinYingKaTong.png" group-title="卫视",金鹰卡通
+rtp://239.3.1.51:9252
+#EXTINF:-1 channel-number="170" tvg-id="170" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/JiaJiaKaTong.png" group-title="地方",嘉佳卡通
+rtp://239.3.1.147:9268
+#EXTINF:-1 channel-number="171" tvg-id="171" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-1.png" group-title="地方",CETV1
+rtp://239.3.1.146:4120
+#EXTINF:-1 channel-number="172" tvg-id="172" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-2.png" group-title="地方",CETV2
+rtp://239.3.1.54:4120
+#EXTINF:-1 channel-number="173" tvg-id="173" tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-3.png" group-title="地方",CETV3
+rtp://239.3.1.55:4120
+#EXTINF:-1 channel-number="174" tvg-id="174" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-4.png" group-title="地方",CETV4
+rtp://239.3.1.56:4120
+#EXTINF:-1 channel-number="201" tvg-id="201" tvg-name="收视指南",收视指南
+rtp://239.3.1.193:8012
+#EXTINF:-1 channel-number="202" tvg-id="202" tvg-name="热播剧场",热播剧场
+rtp://239.3.1.194:9020
+#EXTINF:-1 channel-number="203" tvg-id="203" tvg-name="经典电影",经典电影
+rtp://239.3.1.195:9024
+#EXTINF:-1 channel-number="204" tvg-id="204" tvg-name="魅力时尚",魅力时尚
+rtp://239.3.1.196:9012
+#EXTINF:-1 channel-number="205" tvg-id="205" tvg-name="IPTV6＋",IPTV6＋
+rtp://239.3.1.197:9016
+#EXTINF:-1 channel-number="206" tvg-id="206" tvg-name="IPTV3＋",IPTV3＋
+rtp://239.3.1.198:9004
+#EXTINF:-1 channel-number="207" tvg-id="207" tvg-name="少儿动画",少儿动画
+rtp://239.3.1.199:9000
+#EXTINF:-1 channel-number="208" tvg-id="208" tvg-name="IPTV5＋",IPTV5＋
+rtp://239.3.1.200:9008
+#EXTINF:-1 channel-number="209" tvg-id="209" tvg-name="IPTV8＋",IPTV8＋
+rtp://239.3.1.201:8072
+#EXTINF:-1 channel-number="301" tvg-id="301" tvg-name="房山电视台",房山电视台
+rtp://239.3.1.96:8001
+#EXTINF:-1 channel-number="320" tvg-id="320" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HuNan_KuaiLeChuiDiao.jpg" group-title="地方",快乐垂钓
+rtp://239.3.1.164:8001
+#EXTINF:-1 channel-number="321" tvg-id="321" tvg-name="茶",茶
+rtp://239.3.1.165:8001
+#EXTINF:-1 channel-number="341" tvg-id="341" tvg-name="CCTV-4欧洲高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4-EUO.png" group-title="央视",CCTV-4欧洲高清
+rtp://239.3.1.213:4220
+#EXTINF:-1 channel-number="342" tvg-id="342" tvg-name="CCTV-4美洲高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4-AME.png" group-title="央视",CCTV-4美洲高清
+rtp://239.3.1.214:4220
+#EXTINF:-1 channel-number="343" tvg-id="343" tvg-name="CGTN英语" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN.png" group-title="央视",CGTN英语
+rtp://239.3.1.215:4220
+#EXTINF:-1 channel-number="344" tvg-id="344" tvg-name="CGTN英文纪录" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Doc.png" group-title="央视",CGTN英文纪录
+rtp://239.3.1.216:4220
+#EXTINF:-1 channel-number="345" tvg-id="345" tvg-name="CGTN西班牙语" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Espanol.png" group-title="央视",CGTN西班牙语
+rtp://239.3.1.217:4220
+#EXTINF:-1 channel-number="346" tvg-id="346" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Francis.png" group-title="央视",CGTN法语
+rtp://239.3.1.218:4220
+#EXTINF:-1 channel-number="347" tvg-id="347" tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Arabic.png" group-title="央视",CGTN阿拉伯语
+rtp://239.3.1.219:4220
+#EXTINF:-1 channel-number="348" tvg-id="348" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Russian.png" group-title="央视",CGTN俄语
+rtp://239.3.1.220:4220
+#EXTINF:-1 channel-number="351" tvg-id="351" tvg-name="城市剧场",城市剧场
+rtp://239.3.1.67:4120
+#EXTINF:-1 channel-number="352" tvg-id="352" tvg-name="军旅剧场",军旅剧场
+rtp://239.3.1.68:4120
+#EXTINF:-1 channel-number="353" tvg-id="353" tvg-name="古装剧场",古装剧场
+rtp://239.3.1.69:4120
+#EXTINF:-1 channel-number="354" tvg-id="354" tvg-name="音乐现场",音乐现场
+rtp://239.3.1.70:4120
+#EXTINF:-1 channel-number="355" tvg-id="355" tvg-name="地理",地理
+rtp://239.3.1.71:4120
+#EXTINF:-1 channel-number="356" tvg-id="356" tvg-name="美妆",美妆
+rtp://239.3.1.72:4120
+#EXTINF:-1 channel-number="357" tvg-id="357" tvg-name="美人",美人
+rtp://239.3.1.73:4120
+#EXTINF:-1 channel-number="358" tvg-id="358" tvg-name="精选",精选
+rtp://239.3.1.74:4120
+#EXTINF:-1 channel-number="359" tvg-id="359" tvg-name="解密",解密
+rtp://239.3.1.75:4120
+#EXTINF:-1 channel-number="360" tvg-id="360" tvg-name="军事",军事
+rtp://239.3.1.76:4120
+#EXTINF:-1 channel-number="361" tvg-id="361" tvg-name="国学" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GuoXue.jpg" group-title="地方",国学
+rtp://239.3.1.77:4120
+#EXTINF:-1 channel-number="362" tvg-id="362" tvg-name="戏曲",戏曲
+rtp://239.3.1.78:4120
+#EXTINF:-1 channel-number="363" tvg-id="363" tvg-name="早教",早教
+rtp://239.3.1.79:4120
+#EXTINF:-1 channel-number="364" tvg-id="364" tvg-name="动画",动画
+rtp://239.3.1.80:4120
+#EXTINF:-1 channel-number="365" tvg-id="365" tvg-name="好学生",好学生
+rtp://239.3.1.81:4120
+#EXTINF:-1 channel-number="366" tvg-id="366" tvg-name="鉴赏",鉴赏
+rtp://239.3.1.82:4120
+#EXTINF:-1 channel-number="367" tvg-id="367" tvg-name="墨宝",墨宝
+rtp://239.3.1.83:4120
+#EXTINF:-1 channel-number="368" tvg-id="368" tvg-name="光影",光影
+rtp://239.3.1.84:4120
+#EXTINF:-1 channel-number="369" tvg-id="369" tvg-name="台球",台球
+rtp://239.3.1.85:4120
+#EXTINF:-1 channel-number="370" tvg-id="370" tvg-name="爱生活",爱生活
+rtp://239.3.1.86:4120
+#EXTINF:-1 channel-number="371" tvg-id="371" tvg-name="武术",武术
+rtp://239.3.1.87:4120
+#EXTINF:-1 channel-number="372" tvg-id="372" tvg-name="高网",高网
+rtp://239.3.1.88:4120
+#EXTINF:-1 channel-number="373" tvg-id="373" tvg-name="足球",足球
+rtp://239.3.1.89:4120
+#EXTINF:-1 channel-number="374" tvg-id="374" tvg-name="武侠剧场",武侠剧场
+rtp://239.3.1.90:4120
+#EXTINF:-1 channel-number="375" tvg-id="375" tvg-name="喜剧影院",喜剧影院
+rtp://239.3.1.91:4120
+#EXTINF:-1 channel-number="376" tvg-id="376" tvg-name="动作影院",动作影院
+rtp://239.3.1.92:4120
+#EXTINF:-1 channel-number="377" tvg-id="377" tvg-name="家庭影院",家庭影院
+rtp://239.3.1.93:4120
+#EXTINF:-1 channel-number="378" tvg-id="378" tvg-name="星影",星影
+rtp://239.3.1.94:4120
+#EXTINF:-1 channel-number="379" tvg-id="379" tvg-name="IPTV5＋高清",IPTV5＋高清
+rtp://239.3.1.237:4120
+#EXTINF:-1 channel-number="401" tvg-id="401" tvg-name="爱上4K",爱上4K
+rtp://239.3.1.236:2000
+#EXTINF:-1 channel-number="421" tvg-id="421" tvg-name="BRTV北京卫视超高清HDR",BRTV北京卫视超高清HDR
+rtp://239.3.1.118:8001
+#EXTINF:-1 channel-number="502" tvg-id="502" tvg-name="VBR测试-2",VBR测试-2
+rtp://239.3.1.140:8001
+#EXTINF:-1 channel-number="505" tvg-id="505" tvg-name="轮播频道5",轮播频道5
+rtp://239.3.1.253:8001
+#EXTINF:-1 channel-number="530" tvg-id="530" tvg-name="直播室101",直播室101
+rtp://239.3.1.166:8001
+#EXTINF:-1 channel-number="590" tvg-id="590" tvg-name="文化北京",文化北京
+rtp://239.3.1.97:8001
