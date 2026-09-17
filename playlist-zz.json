@@ -608,27 +608,6 @@
     },
     "timeshift": {}
   },
-  "家有购物精选": {
-    "name": "家有购物精选",
-    "id_sys": "01010001000000050000000000000468",
-    "chno": 30,
-    "tvg_id": 30,
-    "tvg_name": "家有购物精选",
-    "logo": "QiTa/GouWu_JiaYouGouWu.png",
-    "group_title": "购物",
-    "definition": "HD",
-    "flag": [
-      "hd",
-      "group-shopping"
-    ],
-    "live": {
-      "bjunicom-multicast": {
-        "addr": "rtp://239.3.1.186:8001",
-        "type": "rtp"
-      }
-    },
-    "timeshift": {}
-  },
   "淘精彩": {
     "name": "淘精彩",
     "id_sys": "01010001000000050000000000000383",
@@ -1067,6 +1046,28 @@
     },
     "timeshift": {}
   },
+  "四川卫视高清": {
+    "name": "四川卫视高清",
+    "id_sys": "00000001000000050000000000000656",
+    "chno": 54,
+    "tvg_id": 54,
+    "tvg_name": "四川卫视高清",
+    "logo": null,
+    "group_title": null,
+    "definition": null,
+    "flag": [],
+    "live": {
+      "bjunicom-multicast": {
+        "addr": "rtp://239.3.1.202:8168",
+        "type": "rtp"
+      },
+      "bjunicom-rtsp": {
+        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226221/422332212.smil",
+        "type": "rtsp"
+      }
+    },
+    "timeshift": {}
+  },
   "贵州卫视高清": {
     "name": "贵州卫视高清",
     "id_sys": "00000001000000050000000000000577",
@@ -1181,49 +1182,54 @@
       }
     }
   },
-  "优购物精选": {
-    "name": "优购物精选",
-    "id_sys": "01010001000000050000000000000455",
+  "海南卫视高清": {
+    "name": "海南卫视高清",
+    "id_sys": "00000001000000050000000000000659",
     "chno": 60,
     "tvg_id": 60,
-    "tvg_name": "优购物精选",
+    "tvg_name": "海南卫视高清",
     "logo": null,
-    "group_title": "购物",
-    "definition": "HD",
-    "flag": [
-      "ignore",
-      "hd",
-      "group-shopping"
-    ],
+    "group_title": null,
+    "definition": null,
+    "flag": [],
     "live": {
       "bjunicom-multicast": {
-        "addr": "rtp://239.3.1.190:8001",
+        "addr": "rtp://239.3.1.205:8228",
         "type": "rtp"
+      },
+      "bjunicom-rtsp": {
+        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226227/422333129.smil",
+        "type": "rtsp"
       }
     },
     "timeshift": {}
   },
-  "时尚购物精选": {
-    "name": "时尚购物精选",
-    "id_sys": "01010001000000050000000000000456",
+  "陕西卫视高清": {
+    "name": "陕西卫视高清",
+    "id_sys": "00000001000000050000000000000657",
     "chno": 61,
     "tvg_id": 61,
-    "tvg_name": "时尚购物精选",
+    "tvg_name": "陕西卫视高清",
     "logo": null,
-    "group_title": "购物",
-    "definition": "HD",
-    "flag": [
-      "ignore",
-      "hd",
-      "group-shopping"
-    ],
+    "group_title": null,
+    "definition": null,
+    "flag": [],
     "live": {
       "bjunicom-multicast": {
-        "addr": "rtp://239.3.1.191:8001",
+        "addr": "rtp://239.3.1.203:8220",
         "type": "rtp"
+      },
+      "bjunicom-rtsp": {
+        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226223/422332704.smil",
+        "type": "rtsp"
       }
     },
-    "timeshift": {}
+    "timeshift": {
+      "bjunicom-rtsp": {
+        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226223/422332704.smil",
+        "type": "rtsp"
+      }
+    }
   },
   "甘肃卫视高清": {
     "name": "甘肃卫视高清",
@@ -1495,25 +1501,32 @@
     },
     "timeshift": {}
   },
-  "纪实频道HD": {
-    "name": "纪实频道HD",
-    "id_sys": "00000001100000051406111514059258",
+  "内蒙古卫视高清": {
+    "name": "内蒙古卫视高清",
+    "id_sys": "00000001000000050000000000000658",
     "chno": 75,
     "tvg_id": 75,
-    "tvg_name": "纪实频道HD",
+    "tvg_name": "内蒙古卫视高清",
     "logo": null,
     "group_title": null,
     "definition": null,
-    "flag": [
-      "ignore"
-    ],
+    "flag": [],
     "live": {
       "bjunicom-multicast": {
-        "addr": "rtp://239.3.1.212:8060",
+        "addr": "rtp://239.3.1.204:8224",
         "type": "rtp"
+      },
+      "bjunicom-rtsp": {
+        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226225/422332751.smil",
+        "type": "rtsp"
       }
     },
-    "timeshift": {}
+    "timeshift": {
+      "bjunicom-rtsp": {
+        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226225/422332751.smil",
+        "type": "rtsp"
+      }
+    }
   },
   "CETV1高清": {
     "name": "CETV1高清",
