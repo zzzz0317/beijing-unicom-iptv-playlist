@@ -153,6 +153,8 @@ rtp://239.3.1.24:8001
 rtp://239.3.1.22:8001
 #EXTINF:-1 channel-number="85" tvg-id="85" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="央视超高清" zz-definition="UHD",CCTV4K超高清
 rtp://239.3.1.245:2000
+#EXTINF:-1 channel-number="86" tvg-id="86" tvg-name="CCTV-16 4K超高清",CCTV-16 4K超高清
+rtp://239.3.1.206:8001
 #EXTINF:-1 channel-number="121" tvg-id="121" tvg-name="BRTV北京卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京标清" zz-definition="SD",BRTV北京卫视
 rtp://239.3.1.225:8000
 #EXTINF:-1 channel-number="122" tvg-id="122" tvg-name="BRTV文艺" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_WenYi.png" group-title="北京标清" zz-definition="SD",BRTV文艺

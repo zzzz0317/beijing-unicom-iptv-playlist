@@ -1028,6 +1028,19 @@
   },
   {
     "channelFECPort": 0,
+    "channelID": "00000001000000050000000000000662",
+    "channelLogoStruct": null,
+    "channelName": "CCTV-16 4K超高清",
+    "channelPurchased": true,
+    "channelSDP": "igmp://239.2.1.206:8000",
+    "channelType": "1",
+    "channelURL": "igmp://239.3.1.206:8001",
+    "timeShift": false,
+    "timeShiftURL": null,
+    "userChannelID": 86
+  },
+  {
+    "channelFECPort": 0,
     "channelID": "01010001000000050000000000000001",
     "channelLogoStruct": null,
     "channelName": "BRTV北京卫视",

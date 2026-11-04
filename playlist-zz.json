@@ -1692,6 +1692,24 @@
     },
     "timeshift": {}
   },
+  "CCTV-16 4K超高清": {
+    "name": "CCTV-16 4K超高清",
+    "id_sys": "00000001000000050000000000000662",
+    "chno": 86,
+    "tvg_id": 86,
+    "tvg_name": "CCTV-16 4K超高清",
+    "logo": null,
+    "group_title": null,
+    "definition": null,
+    "flag": [],
+    "live": {
+      "bjunicom-multicast": {
+        "addr": "rtp://239.3.1.206:8001",
+        "type": "rtp"
+      }
+    },
+    "timeshift": {}
+  },
   "BRTV北京卫视": {
     "name": "BRTV北京卫视",
     "id_sys": "01010001000000050000000000000001",
