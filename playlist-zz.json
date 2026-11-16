@@ -615,10 +615,12 @@
     "tvg_id": 31,
     "tvg_name": "淘精彩",
     "logo": null,
-    "group_title": null,
-    "definition": null,
+    "group_title": "轮播",
+    "definition": "HD",
     "flag": [
-      "ignore"
+      "ignore",
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -677,10 +679,13 @@
     "chno": 36,
     "tvg_id": 36,
     "tvg_name": "求索4K",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
-    "flag": [],
+    "logo": "QiTa/HCRT_QiuSuoJiLu4K.png",
+    "group_title": "体验",
+    "definition": "UHD",
+    "flag": [
+      "uhd",
+      "group-trial"
+    ],
     "live": {
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.107:8001",
@@ -1052,10 +1057,13 @@
     "chno": 54,
     "tvg_id": 54,
     "tvg_name": "四川卫视高清",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
-    "flag": [],
+    "logo": "WeiShi/SiChuan.png",
+    "group_title": "卫视",
+    "definition": "HD",
+    "flag": [
+      "hd",
+      "group-province"
+    ],
     "live": {
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.202:8168",
@@ -1188,10 +1196,13 @@
     "chno": 60,
     "tvg_id": 60,
     "tvg_name": "海南卫视高清",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
-    "flag": [],
+    "logo": "WeiShi/HaiNan.png",
+    "group_title": "卫视",
+    "definition": "HD",
+    "flag": [
+      "hd",
+      "group-province"
+    ],
     "live": {
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.205:8228",
@@ -1210,10 +1221,13 @@
     "chno": 61,
     "tvg_id": 61,
     "tvg_name": "陕西卫视高清",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
-    "flag": [],
+    "logo": "WeiShi/ShaanXi.png",
+    "group_title": "卫视",
+    "definition": "HD",
+    "flag": [
+      "hd",
+      "group-province"
+    ],
     "live": {
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.203:8220",
@@ -1405,10 +1419,13 @@
     "chno": 70,
     "tvg_id": 70,
     "tvg_name": "CHC动作电影",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
-    "flag": [],
+    "logo": "QiTa/CHC_DongZuoDianYing.png",
+    "group_title": "体验",
+    "definition": "HD",
+    "flag": [
+      "hd",
+      "group-trial"
+    ],
     "live": {
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.106:8001",
@@ -1507,10 +1524,13 @@
     "chno": 75,
     "tvg_id": 75,
     "tvg_name": "内蒙古卫视高清",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
-    "flag": [],
+    "logo": "WeiShi/NeiMengGu.png",
+    "group_title": "卫视",
+    "definition": "HD",
+    "flag": [
+      "hd",
+      "group-province"
+    ],
     "live": {
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.204:8224",
@@ -1698,10 +1718,13 @@
     "chno": 86,
     "tvg_id": 86,
     "tvg_name": "CCTV-16 4K超高清",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
-    "flag": [],
+    "logo": "CCTV/CCTV-16.png",
+    "group_title": "央视超高清",
+    "definition": "UHD",
+    "flag": [
+      "uhd",
+      "group-cctv"
+    ],
     "live": {
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.206:8001",
@@ -2159,10 +2182,12 @@
     "tvg_id": 168,
     "tvg_name": "南方卫视",
     "logo": null,
-    "group_title": null,
-    "definition": null,
+    "group_title": "卫视标清",
+    "definition": "SD",
     "flag": [
-      "ignore"
+      "ignore",
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2346,11 +2371,13 @@
     "chno": 205,
     "tvg_id": 205,
     "tvg_name": "IPTV6+",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
+    "logo": "QiTa/IPTV6+.png",
+    "group_title": "轮播",
+    "definition": "SD",
     "flag": [
-      "ignore"
+      "ignore",
+      "sd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2366,11 +2393,13 @@
     "chno": 206,
     "tvg_id": 206,
     "tvg_name": "IPTV3+",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
+    "logo": "QiTa/IPTV3+.png",
+    "group_title": "轮播",
+    "definition": "SD",
     "flag": [
-      "ignore"
+      "ignore",
+      "sd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2429,11 +2458,13 @@
     "chno": 209,
     "tvg_id": 209,
     "tvg_name": "IPTV8+",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
+    "logo": "QiTa/IPTV8+.png",
+    "group_title": "轮播",
+    "definition": "SD",
     "flag": [
-      "ignore"
+      "ignore",
+      "sd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2644,10 +2675,13 @@
     "chno": 320,
     "tvg_id": 320,
     "tvg_name": "四海钓鱼",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
-    "flag": [],
+    "logo": "QiTa/BRTV_SiHaiDiaoYu.png",
+    "group_title": "体验",
+    "definition": "HD",
+    "flag": [
+      "hd",
+      "group-trial"
+    ],
     "live": {
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.164:8001",
@@ -2662,10 +2696,13 @@
     "chno": 322,
     "tvg_id": 322,
     "tvg_name": "中国天气",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
-    "flag": [],
+    "logo": "QiTa/CMA_ZhongGuoTianQi.png",
+    "group_title": "体验",
+    "definition": "HD",
+    "flag": [
+      "hd",
+      "group-trial"
+    ],
     "live": {
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.108:8001",
@@ -2680,10 +2717,13 @@
     "chno": 323,
     "tvg_id": 323,
     "tvg_name": "环球旅游",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
-    "flag": [],
+    "logo": "QiTa/BRTV_HuanQiuLvYou.png",
+    "group_title": "体验",
+    "definition": "HD",
+    "flag": [
+      "hd",
+      "group-trial"
+    ],
     "live": {
       "bjunicom-multicast": {
         "addr": "rtp://239.3.1.109:8001",
@@ -3522,11 +3562,13 @@
     "chno": 403,
     "tvg_id": 403,
     "tvg_name": "BRTV体育休闲4K HDR",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
+    "logo": "BRTV/BRTV_TiYuXiuXian.png",
+    "group_title": "北京超高清",
+    "definition": "UHD",
     "flag": [
-      "ignore"
+      "ignore",
+      "uhd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3542,11 +3584,13 @@
     "chno": 404,
     "tvg_id": 404,
     "tvg_name": "BRTV体育休闲4K SDR",
-    "logo": null,
-    "group_title": null,
-    "definition": null,
+    "logo": "BRTV/BRTV_TiYuXiuXian.png",
+    "group_title": "北京超高清",
+    "definition": "UHD",
     "flag": [
-      "ignore"
+      "ignore",
+      "uhd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3764,10 +3808,12 @@
     "tvg_id": 502,
     "tvg_name": "VBR测试-2",
     "logo": null,
-    "group_title": null,
-    "definition": null,
+    "group_title": "测试",
+    "definition": "HD",
     "flag": [
-      "ignore"
+      "ignore",
+      "hd",
+      "group-test"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3784,10 +3830,12 @@
     "tvg_id": 505,
     "tvg_name": "轮播-5",
     "logo": null,
-    "group_title": null,
-    "definition": null,
+    "group_title": "轮播",
+    "definition": "HD",
     "flag": [
-      "ignore"
+      "ignore",
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3804,10 +3852,12 @@
     "tvg_id": 515,
     "tvg_name": "VBR测试-1",
     "logo": null,
-    "group_title": null,
-    "definition": null,
+    "group_title": "测试",
+    "definition": "HD",
     "flag": [
-      "ignore"
+      "ignore",
+      "hd",
+      "group-test"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3846,10 +3896,12 @@
     "tvg_id": 521,
     "tvg_name": "高清测试",
     "logo": null,
-    "group_title": null,
-    "definition": null,
+    "group_title": "测试",
+    "definition": "HD",
     "flag": [
-      "ignore"
+      "ignore",
+      "hd",
+      "group-test"
     ],
     "live": {
       "bjunicom-multicast": {

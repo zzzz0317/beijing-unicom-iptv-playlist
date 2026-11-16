@@ -59,7 +59,7 @@ http://iptv.local:8080/rtp/239.3.1.189:8000
 http://iptv.local:8080/rtp/239.3.1.159:8000
 #EXTINF:-1 channel-number="32" tvg-id="32" tvg-name="优购物" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GouWu_YouGouWu.png" group-title="购物" zz-definition="HD",优购物
 http://iptv.local:8080/rtp/239.3.1.180:8001
-#EXTINF:-1 channel-number="36" tvg-id="36" tvg-name="求索4K",求索4K
+#EXTINF:-1 channel-number="36" tvg-id="36" tvg-name="求索4K" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HCRT_QiuSuoJiLu4K.png" group-title="体验" zz-definition="UHD",求索4K
 http://iptv.local:8080/rtp/239.3.1.107:8001
 #EXTINF:-1 channel-number="37" tvg-id="37" tvg-name="淘剧场" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/BJIPTV_TaoJuChang.png" group-title="轮播" zz-definition="HD",淘剧场
 http://iptv.local:8080/rtp/239.3.1.95:8001
@@ -95,7 +95,7 @@ http://iptv.local:8080/rtp/239.3.1.210:8056
 http://iptv.local:8080/rtp/239.3.1.211:8064
 #EXTINF:-1 channel-number="53" tvg-id="53" tvg-name="黑龙江卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HeiLongJiang.png" group-title="卫视" zz-definition="HD",黑龙江卫视高清
 http://iptv.local:8080/rtp/239.3.1.133:8016
-#EXTINF:-1 channel-number="54" tvg-id="54" tvg-name="四川卫视高清",四川卫视高清
+#EXTINF:-1 channel-number="54" tvg-id="54" tvg-name="四川卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/SiChuan.png" group-title="卫视" zz-definition="HD",四川卫视高清
 http://iptv.local:8080/rtp/239.3.1.202:8168
 #EXTINF:-1 channel-number="55" tvg-id="55" tvg-name="贵州卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuiZhou.png" group-title="卫视" zz-definition="HD",贵州卫视高清
 http://iptv.local:8080/rtp/239.3.1.149:8076
@@ -107,9 +107,9 @@ http://iptv.local:8080/rtp/239.3.1.122:8160
 http://iptv.local:8080/rtp/239.3.1.123:8164
 #EXTINF:-1 channel-number="59" tvg-id="59" tvg-name="河南卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HeNan.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226156/10000100000000060000000001276309_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南卫视高清
 http://iptv.local:8080/rtp/239.3.1.50:8184
-#EXTINF:-1 channel-number="60" tvg-id="60" tvg-name="海南卫视高清",海南卫视高清
+#EXTINF:-1 channel-number="60" tvg-id="60" tvg-name="海南卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HaiNan.png" group-title="卫视" zz-definition="HD",海南卫视高清
 http://iptv.local:8080/rtp/239.3.1.205:8228
-#EXTINF:-1 channel-number="61" tvg-id="61" tvg-name="陕西卫视高清" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226223/422332704.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",陕西卫视高清
+#EXTINF:-1 channel-number="61" tvg-id="61" tvg-name="陕西卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShaanXi.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226223/422332704.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",陕西卫视高清
 http://iptv.local:8080/rtp/239.3.1.203:8220
 #EXTINF:-1 channel-number="62" tvg-id="62" tvg-name="甘肃卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GanSu.png" group-title="卫视" zz-definition="HD",甘肃卫视高清
 http://iptv.local:8080/rtp/239.3.1.201:8180
@@ -127,7 +127,7 @@ http://iptv.local:8080/rtp/239.3.1.126:8001
 http://iptv.local:8080/rtp/239.3.1.127:8001
 #EXTINF:-1 channel-number="69" tvg-id="69" tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiGuangChangWu.png" group-title="体验" zz-definition="HD",睛彩广场舞
 http://iptv.local:8080/rtp/239.3.1.128:8001
-#EXTINF:-1 channel-number="70" tvg-id="70" tvg-name="CHC动作电影",CHC动作电影
+#EXTINF:-1 channel-number="70" tvg-id="70" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CHC_DongZuoDianYing.png" group-title="体验" zz-definition="HD",CHC动作电影
 http://iptv.local:8080/rtp/239.3.1.106:8001
 #EXTINF:-1 channel-number="71" tvg-id="71" tvg-name="宁夏卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/NingXia.png" group-title="卫视" zz-definition="HD",宁夏卫视高清
 http://iptv.local:8080/rtp/239.3.1.169:8212
@@ -137,7 +137,7 @@ http://iptv.local:8080/rtp/239.3.1.142:8048
 http://iptv.local:8080/rtp/239.3.1.148:8072
 #EXTINF:-1 channel-number="74" tvg-id="74" tvg-name="深圳卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShenZhen.png" group-title="卫视" zz-definition="HD",深圳卫视高清
 http://iptv.local:8080/rtp/239.3.1.134:8020
-#EXTINF:-1 channel-number="75" tvg-id="75" tvg-name="内蒙古卫视高清" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226225/422332751.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",内蒙古卫视高清
+#EXTINF:-1 channel-number="75" tvg-id="75" tvg-name="内蒙古卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/NeiMengGu.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226225/422332751.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",内蒙古卫视高清
 http://iptv.local:8080/rtp/239.3.1.204:8224
 #EXTINF:-1 channel-number="76" tvg-id="76" tvg-name="CETV1高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-1.png" group-title="卫视" zz-definition="HD",CETV1高清
 http://iptv.local:8080/rtp/239.3.1.57:8152
@@ -153,7 +153,7 @@ http://iptv.local:8080/rtp/239.3.1.24:8001
 http://iptv.local:8080/rtp/239.3.1.22:8001
 #EXTINF:-1 channel-number="85" tvg-id="85" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="央视超高清" zz-definition="UHD",CCTV4K超高清
 http://iptv.local:8080/rtp/239.3.1.245:2000
-#EXTINF:-1 channel-number="86" tvg-id="86" tvg-name="CCTV-16 4K超高清",CCTV-16 4K超高清
+#EXTINF:-1 channel-number="86" tvg-id="86" tvg-name="CCTV-16 4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-16.png" group-title="央视超高清" zz-definition="UHD",CCTV-16 4K超高清
 http://iptv.local:8080/rtp/239.3.1.206:8001
 #EXTINF:-1 channel-number="121" tvg-id="121" tvg-name="BRTV北京卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京标清" zz-definition="SD",BRTV北京卫视
 http://iptv.local:8080/rtp/239.3.1.225:8000
@@ -231,11 +231,11 @@ http://iptv.local:8080/rtp/239.3.1.187:8001
 http://iptv.local:8080/rtp/239.3.1.59:8001
 #EXTINF:-1 channel-number="307" tvg-id="307" tvg-name="平谷电视台" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/QuXian_PingGu.png" group-title="区县" zz-definition="HD",平谷电视台
 http://iptv.local:8080/rtp/239.3.1.23:8001
-#EXTINF:-1 channel-number="320" tvg-id="320" tvg-name="四海钓鱼",四海钓鱼
+#EXTINF:-1 channel-number="320" tvg-id="320" tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/BRTV_SiHaiDiaoYu.png" group-title="体验" zz-definition="HD",四海钓鱼
 http://iptv.local:8080/rtp/239.3.1.164:8001
-#EXTINF:-1 channel-number="322" tvg-id="322" tvg-name="中国天气",中国天气
+#EXTINF:-1 channel-number="322" tvg-id="322" tvg-name="中国天气" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CMA_ZhongGuoTianQi.png" group-title="体验" zz-definition="HD",中国天气
 http://iptv.local:8080/rtp/239.3.1.108:8001
-#EXTINF:-1 channel-number="323" tvg-id="323" tvg-name="环球旅游",环球旅游
+#EXTINF:-1 channel-number="323" tvg-id="323" tvg-name="环球旅游" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/BRTV_HuanQiuLvYou.png" group-title="体验" zz-definition="HD",环球旅游
 http://iptv.local:8080/rtp/239.3.1.109:8001
 #EXTINF:-1 channel-number="341" tvg-id="341" tvg-name="CCTV-4欧洲高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4-EUO.png" group-title="央视" zz-definition="HD",CCTV-4欧洲高清
 http://iptv.local:8080/rtp/239.3.1.213:4220
