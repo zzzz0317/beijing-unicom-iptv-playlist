@@ -3,6 +3,10 @@
 rtp://239.3.1.178:8001
 #EXTINF:-1 channel-number="33" tvg-id="33" tvg-name="时尚购物" group-title="购物" zz-definition="HD",时尚购物
 rtp://239.3.1.181:8001
+#EXTINF:-1 channel-number="42" tvg-id="42" tvg-name="家有购物" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GouWu_JiaYouGouWu.png" group-title="购物" zz-definition="HD",家有购物
+rtp://239.3.1.185:8001
+#EXTINF:-1 channel-number="80" tvg-id="80" tvg-name="证券服务" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GanSu_ZhengQuanFuWu.png" group-title="体验" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226210/406742223.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",证券服务
+rtp://239.3.1.24:8001
 #EXTINF:-1 channel-number="126" tvg-id="126" tvg-name="BRTV体育休闲" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_TiYuXiuXian.png" group-title="北京标清" zz-definition="SD",BRTV体育休闲
 rtp://239.3.1.230:8000
 #EXTINF:-1 channel-number="168" tvg-id="168" tvg-name="南方卫视" group-title="卫视标清" zz-definition="SD",南方卫视

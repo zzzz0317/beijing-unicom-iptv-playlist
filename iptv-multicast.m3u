@@ -71,8 +71,6 @@ rtp://239.3.1.100:8001
 rtp://239.3.1.249:8001
 #EXTINF:-1 channel-number="41" tvg-id="41" tvg-name="湖南卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan.png" group-title="卫视" zz-definition="HD",湖南卫视高清
 rtp://239.3.1.132:8012
-#EXTINF:-1 channel-number="42" tvg-id="42" tvg-name="家有购物" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GouWu_JiaYouGouWu.png" group-title="购物" zz-definition="HD",家有购物
-rtp://239.3.1.185:8001
 #EXTINF:-1 channel-number="43" tvg-id="43" tvg-name="央广购物精选" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GouWu_YangGuangGouWu.png" group-title="购物" zz-definition="HD",央广购物精选
 rtp://239.3.1.223:8001
 #EXTINF:-1 channel-number="44" tvg-id="44" tvg-name="江苏卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangSu.png" group-title="卫视" zz-definition="HD",江苏卫视高清
@@ -147,8 +145,6 @@ rtp://239.3.1.58:8156
 rtp://239.3.1.240:8172
 #EXTINF:-1 channel-number="79" tvg-id="79" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/ZhongGuoJiaoTong.png" group-title="卫视" zz-definition="HD",中国交通
 rtp://239.3.1.188:8001
-#EXTINF:-1 channel-number="80" tvg-id="80" tvg-name="证券服务" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GanSu_ZhengQuanFuWu.png" group-title="体验" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226210/406742223.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",证券服务
-rtp://239.3.1.24:8001
 #EXTINF:-1 channel-number="81" tvg-id="81" tvg-name="北京卫视4K超高清 SDR" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京超高清" zz-definition="UHD" zz-raw-name="BRTV北京卫视超高清SDR",北京卫视4K超高清 SDR
 rtp://239.3.1.22:8001
 #EXTINF:-1 channel-number="85" tvg-id="85" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="央视超高清" zz-definition="UHD",CCTV4K超高清

@@ -9,8 +9,6 @@ http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226227/422333129
 http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226223/422332704.smil
 #EXTINF:-1 channel-number="75" tvg-id="75" tvg-name="内蒙古卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/NeiMengGu.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226225/422332751.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",内蒙古卫视高清
 http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226225/422332751.smil
-#EXTINF:-1 channel-number="80" tvg-id="80" tvg-name="证券服务" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GanSu_ZhengQuanFuWu.png" group-title="体验" zz-definition="HD" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226210/406742223.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",证券服务
-http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226210/406742223.smil
 #EXTINF:-1 channel-number="81" tvg-id="81" tvg-name="北京卫视4K超高清 SDR" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京超高清" zz-definition="UHD" zz-raw-name="BRTV北京卫视超高清SDR",北京卫视4K超高清 SDR
 http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226182/390398577.smil
 #EXTINF:-1 channel-number="85" tvg-id="85" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="央视超高清" zz-definition="UHD",CCTV4K超高清

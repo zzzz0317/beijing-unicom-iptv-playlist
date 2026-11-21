@@ -809,6 +809,7 @@
     "group_title": "购物",
     "definition": "HD",
     "flag": [
+      "ignore",
       "hd",
       "group-shopping"
     ],
@@ -1642,6 +1643,7 @@
     "group_title": "体验",
     "definition": "HD",
     "flag": [
+      "ignore",
       "hd",
       "group-trial"
     ],
