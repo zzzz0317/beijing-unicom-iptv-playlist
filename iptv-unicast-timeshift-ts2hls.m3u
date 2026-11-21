@@ -291,13 +291,13 @@ http://iptv.local:8080/rtp/239.3.1.82:4120
 http://iptv.local:8080/rtp/239.3.1.83:4120
 #EXTINF:-1 channel-number="368" tvg-id="368" tvg-name="光影" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/IPTV_GuangYing.png" group-title="轮播" zz-definition="HD",光影
 http://iptv.local:8080/rtp/239.3.1.84:4120
-#EXTINF:-1 channel-number="369" tvg-id="369" tvg-name="台球" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/IPTV_TaiQiu.png" group-title="轮播" zz-definition="HD",台球
+#EXTINF:-1 channel-number="369" tvg-id="369" tvg-name="经典剧场" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/IPTV_JingDianJuChang.png" group-title="轮播" zz-definition="HD" zz-raw-name="台球",经典剧场
 http://iptv.local:8080/rtp/239.3.1.85:4120
 #EXTINF:-1 channel-number="370" tvg-id="370" tvg-name="爱生活" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/IPTV_AiShengHuo.png" group-title="轮播" zz-definition="HD",爱生活
 http://iptv.local:8080/rtp/239.3.1.86:4120
 #EXTINF:-1 channel-number="371" tvg-id="371" tvg-name="武术" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/IPTV_WuShu.png" group-title="轮播" zz-definition="HD",武术
 http://iptv.local:8080/rtp/239.3.1.87:4120
-#EXTINF:-1 channel-number="372" tvg-id="372" tvg-name="高网" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/IPTV_GaoWang.png" group-title="轮播" zz-definition="HD",高网
+#EXTINF:-1 channel-number="372" tvg-id="372" tvg-name="红色影院" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/IPTV_HongSeYingYuan.png" group-title="轮播" zz-definition="HD" zz-raw-name="高网",红色影院
 http://iptv.local:8080/rtp/239.3.1.88:4120
 #EXTINF:-1 channel-number="373" tvg-id="373" tvg-name="足球" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/IPTV_ZuQiu.png" group-title="轮播" zz-definition="HD",足球
 http://iptv.local:8080/rtp/239.3.1.89:4120

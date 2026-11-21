@@ -3308,8 +3308,8 @@
     "id_sys": "00000001000000050000000000000518",
     "chno": 369,
     "tvg_id": 369,
-    "tvg_name": "台球",
-    "logo": "QiTa/IPTV_TaiQiu.png",
+    "tvg_name": "经典剧场",
+    "logo": "QiTa/IPTV_JingDianJuChang.png",
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
@@ -3371,8 +3371,8 @@
     "id_sys": "00000001000000050000000000000521",
     "chno": 372,
     "tvg_id": 372,
-    "tvg_name": "高网",
-    "logo": "QiTa/IPTV_GaoWang.png",
+    "tvg_name": "红色影院",
+    "logo": "QiTa/IPTV_HongSeYingYuan.png",
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
